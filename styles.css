@@ -341,7 +341,7 @@ h3{
 
 /*For mobile view*/
 
-
+/*
 @media screen and (max-width: 576px) {
     .figure2{
         border-radius: 0 0 800px 0;
@@ -538,5 +538,23 @@ h3{
     .message{
         font-size: 20px;
         left: 40px;
+    }
+}
+*/
+
+/*I hate myself*/
+
+@media screen and (max-width: 576px) {
+    .figure1{
+        top: 290px;
+        height: 300px;
+        width: 150px;
+        border-radius: 800px 0 0 0;
+        
+    }
+    .figure2{
+        height: 370px;
+        width: 150px;
+        border-radius: 0 0 800px 0;
     }
 }
