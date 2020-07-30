@@ -541,20 +541,34 @@ h3{
     }
 }
 */
-
 /*I hate myself*/
 
 @media screen and (max-width: 576px) {
     .figure1{
+        left: 170px;
         top: 290px;
-        height: 300px;
-        width: 150px;
+        height: 410px;
+        width: 160px;
         border-radius: 800px 0 0 0;
         
     }
     .figure2{
         height: 370px;
-        width: 150px;
+        width: 160px;
         border-radius: 0 0 800px 0;
+    }
+    .phone{
+        top: 50px;
+        left: 45px;
+        width: 200px;
+        height: 400px;
+    }
+    .notch{
+        height: 12px;
+        width: 95px;
+        left: 52px;
+    }
+    .person-bar{
+        width: 200px;
     }
 }
