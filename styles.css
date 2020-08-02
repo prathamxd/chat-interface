@@ -341,203 +341,33 @@ h3{
 
 /*For mobile view*/
 
-
 @media screen and (max-width: 576px) {
     .figure2{
         border-radius: 0 0 800px 0;
-        height: 65em;
-        width: 500px;
+        height: 22rem;
+        width: 10em;
     }
     .figure1{
-        left: 550px;
-        top: 1035px;
-        height: 80em;
-        width: 500px;
-    }
-    h1{
-        font-size: 90px;
-        top: 1300px;
-        left: 190px;
-        width: 700px;
-        
-    }
-    .para{
-        text-align: center;
-        line-height: 90px;
         left: 150px;
-        font-size: 40px;
-        width: 755px;
-        top: 1500px;
+        top: 270px;
+        height: 540px;
+        width: 13em;
     }
-
     .phone{
-        border: 12px solid white;
-        top: 130px;
-        left: 210px;
-        height: 1060px;
-        width: 550px;
-        border-radius: 50px;
-    }
-    .notch{
-        z-index: 1;
-        left: 10em;
-        height: 30px;
-        width: 240px;
-    }
-    .person-bar{
-        border: 10.5px;
-        position: absolute;
-        top: 2px;
-        height: 130px;
-        width: 549px;
-        border-radius: 35px 35px 5px 5px;;
-    }
-    .name{
-        width: 675px;
-        font-size: 26px;
-        top: 15px;
-        left: 170px;
-    }
-    .walk{
-        font-size: 20px;
-        top: 63px;
-        left: 170px;
-    }
-    .person{
-        width: 60px;
-        height: 60px;
         left: 80px;
         top: 40px;
+        zoom: 60%;
     }
-    h3{
-        font-size: 35px;
-        top: 15px;
-        left: 40px;
+    h1{
+        font-size: 30px;
+        left: 45px;
+        top: 380px;
     }
-    .dots{
-        left: 500px;
-        font-size: 50px;
-    }
-    .chatbox-s1{
-        width: 17em;
-        height: 5em;
-        top: 170px;
-        left: 20px;
-        border-radius: 15px 15px 15px 8px;
-    }
-    .s1{
-        left: 20px;
-        font-size: 20px;
-        width: 200px;
-    }
-    .chatbox-s2{
-        width: 19.5em;
-        height: 5em;
-        top: 270px;
-        left: 20px;
-        border-radius: 15px 15px 15px 8px;
-    }
-    .s2{
-        left: 20px;
-        width: 270px;
-        font-size: 20px;
-    }
-    .chatbox-s3{
-        top: 660px;
-        left: 20px;
-        width: 20em;
-        height: 7em;
-        border-radius: 15px 15px 15px 8px;
-    }
-    .s3{
-        left: 20px;
-        font-size: 20px;
-        width: 280px;
+    .para{
+        font-size: 13px;
+        left: 25px;
+        top: 450px;
+        width: 250px;
+        text-align: center;
     }
     
-    .dog-images{
-        top: 370px;
-        left: 240px;
-    }
-    .dog{
-        border-radius: 25px;
-        width: 80px;
-        height: 80px;
-    }
-    .chatbox-r1{
-        width: 17em;
-        height: 5em;
-        top: 480px;
-        left: 250px;
-        border-radius: 15px 15px 15px 8px;
-    }
-    .r1{
-        font-size: 20px;
-        width: 250px;
-        left: 20px;
-    }
-    .chatbox-r2{
-        top: 580px;
-        width: 13em;
-        height: 3em;
-        left: 310px;
-        border-radius: 15px 15px 15px 8px;
-    }
-    .r2{
-        width: 250px;
-        font-size: 20px;
-        top: -5px;
-        left: -20px;
-    }
-    .btn{
-        left: 20px;
-    }
-    .btn1{
-        position: absolute;
-        top: 430px;
-        width: 400px;
-        height: 70px;
-    }
-    .btn2{
-        position: absolute;
-        top: 520px;
-        width: 400px;
-        height: 70px;
-    }
-    .circle{
-        width: 30px;
-        height: 30px;
-        top: 20px;
-        left: 20px;
-    }
-    h2{
-        font-size: 37px;
-        
-    }
-    .d{
-        top: -18px;
-        left: 310px;
-    }
-    .min{
-        font-size: 23px;
-        left: 70px;
-        top: 2px;
-    }
-    .textbox{
-        width: 32em;
-        left: 20px;
-        top: 900px;
-        height: 65px;
-    }
-    .arrow{
-        width: 50px;
-        height: 50px;
-        top: 4px;
-        left: 450px;
-    }
-    .message{
-        font-size: 20px;
-        left: 40px;
-    }
-}
-
