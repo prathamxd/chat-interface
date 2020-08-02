@@ -344,30 +344,30 @@ h3{
 @media screen and (max-width: 576px) {
     .figure2{
         border-radius: 0 0 800px 0;
-        height: 22rem;
+        height: 400px;
         width: 10em;
     }
     .figure1{
-        left: 200px;
-        top: 270px;
-        height: 540px;
-        width: 13em;
+        right: 0;
+        bottom: 0;
+        height: 400px;
+        width: 10em;
     }
     .phone{
-        left: 80px;
+        left: 100px;
         top: 40px;
-        zoom: 60%;
+        zoom: 70%;
     }
     h1{
-        font-size: 30px;
-        left: 45px;
-        top: 380px;
+        font-size: 33px;
+        top: 450px;
+        left: 65px;
     }
     .para{
-        font-size: 13px;
-        left: 25px;
-        top: 450px;
-        width: 250px;
+        font-size: 15px;
+        left: 37px;
+        top: 540px;
+        width: 290px;
         text-align: center;
     }
     
